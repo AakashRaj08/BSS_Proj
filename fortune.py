@@ -22,7 +22,7 @@ fortunes = {
     "stressed": [
         "Take a deep breath—peace is coming soon.",
         "You're doing great, even if it doesn't feel like it.",
-        "Hang in there, Shreyansh! A breakthrough is near."
+        "Hang in there, Aakash! A breakthrough is near."
     ]
 }
 
