@@ -1,5 +1,5 @@
 
-print("🔮 Welcome to Shreyansh Shandilya's Fortune Teller (21JE1234) 🔮")
+print("🔮 Welcome to Aakash Raj's Fortune Teller (21JE0002) 🔮")
 mood = input("How are you feeling today? (happy/sad/neutral): ").strip().lower()
 
 if mood == "happy":
